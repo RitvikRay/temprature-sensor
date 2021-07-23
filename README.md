@@ -1,14 +1,8 @@
 
 > Open this page at [https://ritvikray.github.io/temprature-sensor/](https://ritvikray.github.io/temprature-sensor/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/ritvikray/temprature-sensor** and import
+## turtorial
+* [turtorial](https://ritvikray.github.io/temprature-sensor/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/ritvikray/temprature-sensor/workflows/MakeCode/badge.svg)
 
